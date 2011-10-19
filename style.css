@@ -1,0 +1,19 @@
+html {
+	font-family: "HelveticaNeue-Light", "HelveticaNeueLight", "Helvetica Neue Light", "Helvetica Neue-Light", "Helvetica Neue", Helvetica;
+	font-size: 20px;
+}
+html, nav#toolbar { min-width: 800px; }
+h1 {
+	font-family: "HelveticaNeue-UltraLight", "HelveticaNeueUltraLight", "HelveticaNeue-Ultra-Light", "Helvetica Neue Ultra Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+	min-height: 150px;
+	border-bottom: solid 1px #ddd;
+	color: #777;
+	font-weight: lighter;
+	font-size: 50px
+}
+article {
+	float: left;
+	margin: 20px;
+	width: 20%;
+}
+footer {clear: left; text-align: center; font-size: 11px; color: #bbb;}
